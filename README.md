@@ -1,4 +1,4 @@
-# <img src="public/logodeliveboo.png" height="30" margin="10px"/> Deliveboo
+# <img src="public/logodeliveboo.png" height="30" margin-right="20px"/> Deliveboo
 
 Deliveboo is a food delivery web app based in Luxemburg that allows customers to order food from their favorite restaurant without registration, but entering only the data necessary for delivery (Credit card number, name, address). Restaurateurs can register in the platform and create, modify and delete dishes and see statistics based on their customers orders.
 
@@ -6,7 +6,7 @@ Deliveboo is a food delivery web app based in Luxemburg that allows customers to
 
 <p align="center">
     <span align="left">
-        <img src="public/" height="300px"/>
+        <img src="public/gif1.gif" height="300px"/>
     </span>
 </p>
 
@@ -71,20 +71,20 @@ php artisan serve
 <br>
 <p align="center">
     <span align="left">
-        <img src="public/DeliveBoo Homepage.png" height="300px"/>
+        <img src="public/DeliveBoo Homepage.png" height="400px"/>
     </span>
     <span align="right">
-        <img src="public/DeliveBoo Restaurant Search.png" height="300px">
+        <img src="public/DeliveBoo Restaurant Search.png" height="400px">
     </span>
 </p>
 
 <br><br>
 <p align="center">
     <span align="left">
-        <img src="public/DeliveBoo Restaurant Menu.png" height="300px"/>
+        <img src="public/DeliveBoo Restaurant Menu.png" height="400px"/>
     </span>
     <span align="right">
-        <img src="DeliveBoo About Us.png" height="300px">
+        <img src="DeliveBooAboutUs.png" height="400px">
     </span>
 </p>
 <hr>
