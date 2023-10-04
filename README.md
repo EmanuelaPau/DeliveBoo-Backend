@@ -84,7 +84,7 @@ php artisan serve
         <img src="public/DeliveBoo Restaurant Menu.png" height="400px"/>
     </span>
     <span align="right">
-        <img src="DeliveBooAboutUs.png" height="400px">
+        <img src="public/DeliveBooAboutUs.png" height="400px">
     </span>
 </p>
 <hr>
