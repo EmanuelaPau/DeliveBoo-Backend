@@ -19,6 +19,7 @@ Deliveboo is a food delivery web app based in Luxemburg that allows customers to
 -   Duplicate .env.example and rename it .env , insert info in .env (change your app name, database name, port, mailer, ...)<br>
 -   Add to your .env file:<br>
 
+```
 FRONTEND URL=hhtp://localhost:3000
 SANCTUM_STATEFUL_DOMAINS=localhost:3000
 SESSION_DOMAINS=localhost
@@ -37,6 +38,7 @@ BRAINTREE_MERCHANT_ID=your braintree merchant id
 BRAINTREE_PUBLIC_KEY=your braintree public key
 BRAINTREE_PRIVATE_KEY= your braintree private key
 
+```
 <br>
 
 ```
@@ -62,6 +64,29 @@ php artisan serve
 
 ```
 
+<hr>
+
+## Screenshots 
+
+<br>
+<p align="center">
+    <span align="left">
+        <img src="public/DeliveBoo Homepage.png" height="300px"/>
+    </span>
+    <span align="right">
+        <img src="public/DeliveBoo Restaurant Search.png" height="300px">
+    </span>
+</p>
+
+<br><br>
+<p align="center">
+    <span align="left">
+        <img src="public/DeliveBoo Restaurant Menu.png" height="300px"/>
+    </span>
+    <span align="right">
+        <img src="DeliveBoo About Us.png" height="300px">
+    </span>
+</p>
 <hr>
 
 ## Contributors
